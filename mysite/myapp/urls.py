@@ -8,7 +8,7 @@ from myapp.views import (
 
 urlpatterns = [
 
-    path(' ',home_screen_view),
+    path('',home_screen_view),
     
 
 ]
